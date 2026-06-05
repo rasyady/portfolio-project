@@ -68,4 +68,3 @@ Tools I Installed
 - **Issue**: I did not inherently know how to configure API proxies, translate between API formats, or debug Python environments.
 - **Solution**: I heavily utilized an AI assistant as a pair programmer. I shared my terminal errors, explained my goals, and followed the step-by-step guidance provided. This allowed me to attempt a complex, multi-tool local AI setup. Even when the local AI setup failed to fully function, the process of troubleshooting it demonstrated my ability to research, adapt, and find workarounds.
 
-**
