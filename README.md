@@ -1,8 +1,8 @@
-#Cursor & AI Tools Portfolio Project
+Cursor & AI Tools Portfolio Project
 
 This project is part of a hiring assessment to demonstrate my ability to set up development environments, research solutions, troubleshoot issues, and utilize AI tools.
 
-##Tools I Installed
+Tools I Installed
 - **Git**: Version 2.50.1 (macOS Apple Git-155)
 - **Cursor IDE**: Downloaded from cursor.com
 - **Claude Code CLI**: Version 2.1.165
